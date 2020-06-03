@@ -17,3 +17,5 @@ This repo is mainly for my personal learning to look back at completed Kata's an
 Round up to next multiple of 5 - <href>https://www.codewars.com/kata/55d1d6d5955ec6365400006d</href>
 
 Vowell Count - <href>https://www.codewars.com/kata/54ff3102c1bad923760001f3/javascript</href>
+
+Make Techno - <href>https://www.codewars.com/kata/563c8540d50eb20bab00009a/javascript</href>
