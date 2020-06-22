@@ -21,18 +21,3 @@ Take the number (n)
 Divide it by 5 and get the decimal value
 Use math.ceil to get the decimal value
 Multiply by 5 to get result
-
-Sample Tests;
-
-[
-[0,0],
-[1,5],
-[3,5],
-[5,5],
-[7,10],
-[39,40]
-].forEach(
-([x,out])=> Test.assertEquals(roundToNext5(x), out )
-);
-
-\*/
