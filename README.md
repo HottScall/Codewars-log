@@ -22,7 +22,9 @@ Make Techno - <href>https://www.codewars.com/kata/563c8540d50eb20bab00009a</href
 
 <h2 align="centre">8 KYU</h2>
 
-Quarter of the year - https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript
+Mean of an array - https://www.codewars.com/kata/563e320cee5dddcf77000158
+
+Quarter of the year - https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
 
 How good are you? - https://www.codewars.com/kata/5601409514fc93442500010b
 
