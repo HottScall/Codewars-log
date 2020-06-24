@@ -22,6 +22,8 @@ Make Techno - <href>https://www.codewars.com/kata/563c8540d50eb20bab00009a</href
 
 <h2 align="centre">8 KYU</h2>
 
+Quarter of the year - https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript
+
 How good are you? - https://www.codewars.com/kata/5601409514fc93442500010b
 
 Opposite Number - https://www.codewars.com/kata/56dec885c54a926dcd001095
