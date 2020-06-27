@@ -12,10 +12,20 @@ This repo is mainly for my personal learning to look back at completed Kata's an
 
 <h1 align="centre">Kata's</h1>
 
-7KYU:
+<h2 align="centre">7 KYU</h2>
 
 Round up to next multiple of 5 - <href>https://www.codewars.com/kata/55d1d6d5955ec6365400006d</href>
 
-Vowell Count - <href>https://www.codewars.com/kata/54ff3102c1bad923760001f3/javascript</href>
+Vowell Count - <href>https://www.codewars.com/kata/54ff3102c1bad923760001f3</href>
 
-Make Techno - <href>https://www.codewars.com/kata/563c8540d50eb20bab00009a/javascript</href>
+Make Techno - <href>https://www.codewars.com/kata/563c8540d50eb20bab00009a</href>
+
+<h2 align="centre">8 KYU</h2>
+
+How good are you? - https://www.codewars.com/kata/5601409514fc93442500010b
+
+Opposite Number - https://www.codewars.com/kata/56dec885c54a926dcd001095
+
+String Repeat - https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
+
+Reduce But Grow - https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript
